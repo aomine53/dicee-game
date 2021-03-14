@@ -1,0 +1,29 @@
+
+body{
+  background-color: #3f3f44;
+  text-align: center;
+
+}
+
+
+h1{
+  font-family: 'Lobster';
+  font-size: 8rem;
+  color: #649d66;
+  margin: 24px 0 57px ;
+}
+
+p{
+  font-family: 'Teko';
+  font-weight: 400;
+  font-size: 3rem;
+  color: #649d66;
+}
+
+.container{
+  width: 50%;
+}
+
+.dicee{
+  width: 50%;
+}
