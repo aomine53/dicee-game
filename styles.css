@@ -27,3 +27,10 @@ p{
 .dicee{
   width: 50%;
 }
+
+.btn{
+  font-size: 30px;
+  margin-top: 50px;
+  height: 100px;
+  width: 560px;
+}
